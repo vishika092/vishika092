@@ -32,12 +32,12 @@ I’m a **Full Stack MERN Engineer** specializing in **React** and **Tailwind CS
 ## 🚀 Portfolio Projects  
 
 ### **Tasky Management App**  
-A productivity and project task management SaaS designed for individuals and organizations.  
+A productivity and project task management SaaS designed for individuals, organizations, members and admins.  
 🔗 [Live Demo](https://tasky.vishika.life/home)  
 - **Features**:  
-  - Multi-user role management (Individual Users, Organization Admins, Team Admins, Members).  
+  - Multi-user role management (Individual Users, Organization Admins, Admins, Members).  
   - Secure authentication with 2FA (OTP via email/phone).  
-  - Task management with automated reminders via SMS and email.  
+  - Projects, Teams , Members and Task, management with automated reminders via SMS and email.
   - Microservices for OTP, notifications, and invitation links.  
   - Deployed using Nginx on remote servers.  
 
