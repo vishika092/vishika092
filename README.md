@@ -1,6 +1,6 @@
 # Vishika Jain  
 **Full Stack MERN Engineer**  
-📍 Pali, Rajasthan 306401 | 📞 +91 8426006316 | 📧 vishikajain0@gmail.com  
+📍 Pali, Rajasthan 306401  | 📧 vishikajain0@gmail.com  
 
 ---
 
